@@ -122,7 +122,7 @@ $(document).ready(function(){
         'aria-hidden': true,
     });
     $('#button-home').click(function(){
-        window.location.href = '/main.html'
+        window.location.href = '/First-Website/main.html'
     });
     $('#button-user span').attr({
         'class': 'glyphicon glyphicon-user',
