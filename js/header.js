@@ -38,7 +38,7 @@ $(document).ready(function(){
     var imgHeight = parseInt(imgWidth/2);
     $('.container-fluid a').append('<img id="logo-img"></img>');
     $('#logo-img').attr({
-        'src':'/fig/amazon.png',
+        'src':'/First-Website/fig/amazon.png',
         'alt':'logo image',
         'height':imgHeight.toString() + 'px', 
         'width':imgWidth.toString() + 'px'
